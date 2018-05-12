@@ -1,4 +1,8 @@
 _repo: Dictionary-of-Quotations-from-Ancient-and-Modern-English-and-Foreign-Sources_48105
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48105-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, James, Rev.
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4325
     wikipedia: http://en.wikipedia.org/wiki/James_Wood_%28encyclopedist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48105#Dictionary-of-Quotations-from-Ancient-and-Modern-English-and-Foreign-Sources
 gutenberg_issued: '2015-01-29'
 gutenberg_type: Text
 identifiers:
